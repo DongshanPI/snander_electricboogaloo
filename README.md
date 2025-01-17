@@ -31,13 +31,4 @@ cd src/
 meson configure -Dmstar_ddc=true
 ```
 
-### Interfaces
 
-For mstar ddc anything that Linux can use an i2c master.
-USB i2c masters:
-  - https://github.com/harbaum/I2C-Tiny-USB
-  - https://github.com/Nicolai-Electronics/rp2040-i2c-interface
-
-### How to use
-
-Check the built in help.
